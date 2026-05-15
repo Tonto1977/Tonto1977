@@ -35,7 +35,7 @@ A few principles I do not negotiate on.
 
 ## Background
 
-Twenty plus years in internal logistics. Time study, layout design, warehouse and assembly flow, financial modeling for logistics investments. Co-founded Ziirto in 2024 with Mika Eskola. Nine people today, five of whom are engineer-shareholders.
+Twenty plus years in internal logistics. Time study, layout design, warehouse and assembly flow, financial modeling for logistics investments. Co-founded Ziirto in 2020 with Mika Eskola (@EagleMike). Nine people today, five of whom are engineer-shareholders.
 
 I write and present in Finnish for clients, in English here.
 
