@@ -45,4 +45,7 @@ I write and present in Finnish for clients, in English here.
 
 <!-- TODO: lisää LinkedIn-linkki ja ziirto.fi kun profiili menee julkiseksi -->
 
-ziirto.fi
+ziirto.com
+toni.salminen@ziirto.com
++358456764900
+
